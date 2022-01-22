@@ -1,0 +1,7 @@
+Halo pak salam kenal nama saya Alya dari Bandung, saya merupakan lulusan dari Sistem Informasi Akuntansi yang dimana selama di perkuliahan,
+saya belajar pemrograman dengan framework PHP Codeigniter, dan saya ingin mengembangkan skill pemrograman saya terutama di framework Laravel.
+
+Resolusi saya:
+1. Membuat website dengan menggunakan framework Laravel 
+2. Membuat website dengan menggunakan framework javascript
+3. Bekerja di perusahaan start-up
